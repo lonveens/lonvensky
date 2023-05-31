@@ -1,5 +1,23 @@
-header {
+ *{
+    margin: 0;
+    paddind: 0;
+ }
+   
+  cabecalho 
     background-color: #3D4B95;
     color: white;
+display: flex;
+justify-content:space-around;
+align-item: item;
+padding: 24px 0;
+}
 
+.cabecalho-imagem{
+whith: 20%;
+}
+
+.cabecalho-lista-item{
+display: indine-block;
+margin: 0 16px;
+font-size: 24px;
 }
